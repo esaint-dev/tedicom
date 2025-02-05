@@ -16,7 +16,7 @@ const Partners = () => {
             <p className='text-[28px]'>Our business experience spanning over a period of <span className='font-bold'>14 years</span> experience has prepared us for  very difficult and complex jobs. This makes us the preferred choice for projects with highly demanding requirements and tasking timelines  </p>
             </div>
 
-            <Carousel />
+            
         </div>
       </div>
     </section>
