@@ -7,7 +7,7 @@ import ContactUs from "./pages/ContactUs";
 import Services from "./pages/Services";
 import Project from "./pages/Project";
 import PageNotFound from "./pages/PageNotFound";
-import Carousel from "./components/carousel/carousel";
+// import Carousel from "./components/carousel/carousel";
 import Service1 from "./pages/Service1";
 import Service2 from "./pages/Service2";
 import Service3 from "./pages/Service3";
@@ -27,7 +27,7 @@ function App() {
                 <Route path="/service2" element={<Service2 />} />
                 <Route path="/service3" element={<Service3 />} />
                 <Route path="/projects" element={<Project />} />
-                <Route path="/swiper" element={<Carousel />} />
+                {/* <Route path="/swiper" element={<Carousel />} /> */}
                 <Route path="*" element={<PageNotFound />} />
             </Routes>
         </>
