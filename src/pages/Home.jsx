@@ -77,7 +77,7 @@ const Home = () => {
             <Carousel />
             <CuttingEdgeTechnologies />
             <Partners />
-            <Carousel2 />
+            {/* <Carousel2 /> */}
             <PartnerWithExcellence />
             <Trustees />
             <WordsofAppreciationDark />
