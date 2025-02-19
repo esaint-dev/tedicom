@@ -11,7 +11,7 @@ import NextTechPartner from "../components/NextTechPartner";
 import Accordion from "../components/Accordion";
 import Hero2 from "../components/Hero2";
 import StandatdButton from "../components/Buttons/StandatdButton";
-import Carousel from "../components/carousel/carousel";
+import Carousel from "../components/Carousel";
 import Hero2Stats from "../components/Hero2Stats";
 
 const Service2 = () => {

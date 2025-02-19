@@ -13,7 +13,7 @@ import Partners from '../components/Partners';
 import Insights from '../components/Insights';
 import OurHelp from '../components/OurHelp';
 import Footer from '../components/Footer';
-import Carousel from '../components/carousel/carousel';
+import Carousel from '../components/Carousel';
 import CuttingEdgeTechnologies from '../components/CuttingEdgeTechnologies';
 import { Navigate, useNavigate } from 'react-router-dom';
 import PartnerWithExcellence from '../components/PartnerWithExcellence';

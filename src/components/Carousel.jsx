@@ -5,7 +5,7 @@ import "swiper/css/navigation";
 import { Navigation } from "swiper/modules";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 
-import BorderBotton from "../Buttons/BorderBotton";
+import BorderBotton from "./Buttons/BorderBotton";
 
 const Carousel = () => {
     return (
