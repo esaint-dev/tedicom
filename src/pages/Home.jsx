@@ -19,7 +19,7 @@ import { Navigate, useNavigate } from 'react-router-dom';
 import PartnerWithExcellence from '../components/PartnerWithExcellence';
 import Trustees from '../components/Trustees';
 import WordsofAppreciationDark from '../components/WordsofAppreciationDark';
-import Carousel2 from '../components/carousel2';
+// import Carousel2 from '../components/carousel2';
 
 
 
