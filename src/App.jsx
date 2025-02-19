@@ -7,7 +7,6 @@ import ContactUs from "./pages/ContactUs";
 import Services from "./pages/Services";
 import Project from "./pages/Project";
 import PageNotFound from "./pages/PageNotFound";
-import Carousel from "./components/carousel/carousel";
 import Service1 from "./pages/Service1";
 import Service2 from "./pages/Service2";
 import Service3 from "./pages/Service3";
